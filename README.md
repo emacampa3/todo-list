@@ -1,6 +1,6 @@
 # Todo list
 
-A baisc react project which includes good practices, Typescript and testing.
+A basic react project which includes good practices, Typescript and testing.
 
 ## Available Scripts
 
